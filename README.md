@@ -8,4 +8,4 @@ first day repo for the first day of class
 ## It is complete when I have used the command-line to navigate into the first-day-repo directory.
 ## It is complete when I have used the command-line to create an index.html file.
 ## It is complete when I commit my changes using Git commands.
-## It is complete whenIi push the changes to the remote repository.
+## It is complete when I push the changes to the remote repository.
